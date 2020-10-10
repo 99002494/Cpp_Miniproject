@@ -19,4 +19,4 @@ jobs:
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: valgrind check
       run: |
-        valgrind ./Cpp Mini-project/all.out
+        valgrind ./CppMiniproject/all.out
