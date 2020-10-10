@@ -1,0 +1,3 @@
+/home/training/Desktop/cppandlinuxprojects/CMakeFiles/rebuild_cache.dir
+/home/training/Desktop/cppandlinuxprojects/CMakeFiles/edit_cache.dir
+/home/training/Desktop/cppandlinuxprojects/CMakeFiles/executeTests.dir
